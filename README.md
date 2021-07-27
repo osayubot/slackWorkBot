@@ -17,12 +17,12 @@
 - main.gs を貼り付ける
 - 先ほどコピーした WebhookURL を 10 行目の変数 url に代入する
 - デプロイ → 新しいデプロイを選択。デプロイの種類を「ウェブアプリ」に、アクセスできるユーザーを全員に変更し、デプロイ
-- ウェブアプリの URL（https://script.google.com/macros/s/....）をコピーする
+- ウェブアプリの URL（https://script.google.com/macros/s/....） をコピーする
 
 ###　 OutgoingWebhook の設定
 
 - カスタムインテグレーションより、OutgoingWebhook を追加
-- SlackWorkBot を導入したいチャンネル（先ほど IncomingWebHhook で設定したチャンネル）を設定する
+- SlackWorkBot を導入したいチャンネル（先ほど IncomingWebhook で設定したチャンネル）を設定する
 - 引き金となる言葉に　開始,終了　を入力
 - URL に先ほどコピーしたウェブアプリの URL を入力する
 - 設定を保存する
