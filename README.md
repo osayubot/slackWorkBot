@@ -19,7 +19,7 @@
 - デプロイ → 新しいデプロイを選択。デプロイの種類を「ウェブアプリ」に、アクセスできるユーザーを全員に変更し、デプロイ
 - ウェブアプリの URL（https://script.google.com/macros/s/....） をコピーする
 
-###　 OutgoingWebhook の設定
+### OutgoingWebhook の設定
 
 - カスタムインテグレーションより、OutgoingWebhook を追加
 - SlackWorkBot を導入したいチャンネル（先ほど IncomingWebhook で設定したチャンネル）を設定する
