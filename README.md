@@ -5,7 +5,6 @@
 その際に「メモ：〇〇」と記入することで、メモ：以降の文字列を保存します。
 そのため作業内容も記録することが可能です。
 
-https://user-images.githubusercontent.com/81318499/131246026-1fa85072-aa2b-4737-8c71-2872218ec0d2.mov
 
 
 ## SlackWorkBot の導入方法
